@@ -28,10 +28,10 @@
 #
 ## 2- Big-O Notation O(n²)
 
-<br><br>
 
 
-#
+
+
 ## 3 - [2,6,16,18,22,27]
 <br>
 Best Case: 2
