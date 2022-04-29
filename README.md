@@ -26,11 +26,10 @@
 [2,6,16,18,22,27]
 
 #
-## 2- Big-O
-<br>
-[2,6,16,18,22,27]
+## 2- Big-O Notation O(n²)
+
 <br><br>
-O(n)'den n=6;  O(6)
+
 
 #
 ## 3 - [2,6,16,18,22,27]
@@ -44,6 +43,11 @@ Worst Case: 27
 #
 ## 4- [2,6,16,18,22,27] 18 sayısı =Avarage Case
 <br><br>
+
+#
+## 5- [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+![photo_2022-04-29_18-51-35](https://user-images.githubusercontent.com/15932181/165980428-ce81b5b5-5bad-4524-b62d-aca40829c55c.jpg)
+
 
 #
 # Proje 2
